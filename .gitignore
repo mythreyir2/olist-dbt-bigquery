@@ -222,3 +222,6 @@ target/
 dbt_packages/
 logs/
 .env
+
+# IDE
+.idea/
